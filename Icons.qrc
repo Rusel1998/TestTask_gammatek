@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Group 21">resources/Group 21.png</file>
+        <file alias="close">resources/close.png</file>
+    </qresource>
+</RCC>
